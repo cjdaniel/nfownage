@@ -3,7 +3,7 @@ NFOwnage
 
 This is just a little script that generates a nice text file summary (what the cool kids call an NFO file), given a name, plus a list of MP3 files. Here's how you roll:
 
-    % ./nfownage.py "Chris Daniel" /Users/chris/Music/Emily\ Haines/Cut\ in\ Half\ and\ \(Also\)\ Double/*.mp3
+    % ./nfownage.py "Chris Daniel" /Users/chris/Music/Emily\ Haines/Cut*/*.mp3
     Artist    : Emily Haines
     Album     : Cut in Half and (Also) Double
     Year      : 1996
