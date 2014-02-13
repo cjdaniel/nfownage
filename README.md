@@ -1,7 +1,11 @@
 NFOwnage
 ========
 
-This is just a little script that generates a nice text file summary (what the cool kids call an NFO file), given a name, plus a list of MP3 files. Here's how you roll:
+This is just a little script that generates a nice text file summary (what the cool kids call an NFO file), given a name, plus a list of MP3 files.
+
+It requires MP3Info.py version 1.12 (or later?). That's included in this repository. See the note below for more.
+
+Here's how you roll:
 
     % ./nfownage.py "Chris Daniel" /Users/chris/Music/Emily\ Haines/Cut*/*.mp3
     Artist    : Emily Haines
